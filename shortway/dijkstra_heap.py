@@ -28,7 +28,9 @@ def dijkstra(start):
 
 dijkstra(start)
 
+
 print (distance[1:])
+
 
 
 
